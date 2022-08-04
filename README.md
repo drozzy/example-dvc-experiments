@@ -91,7 +91,7 @@ and environment. It may be easier to review them when you give names with the
 dvc exp run -n my-baseline-experiment
 ```
 
-Artifacts produced by experiments are normally not checked out to the repository.
+Artifacts produced by experiments are normally not checked in to the repository.
 If you want to do so, you can use:
 
 ```console
